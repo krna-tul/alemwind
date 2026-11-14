@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "three_revision": "180",
+  "checks": [
+    "independent highlight",
+    "selection switch",
+    "all internal inspections and restoration",
+    "clear restores materials",
+    "independent rotation and child picking",
+    "focus bounds and deterministic reset",
+    "animated disassembly midpoint and endpoint",
+    "independent turbine disassembly",
+    "rotor paused during disassembly",
+    "15 repeated reassemblies without drift",
+    "reset restores every movable component"
+  ]
+}
